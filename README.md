@@ -11,3 +11,6 @@
 北京大学编译原理实验课样例：[https://github.com/pku-minic/awesome-sysy](https://github.com/pku-minic/awesome-sysy)
 
 洛谷P3380题解：[https://www.luogu.com.cn/article/55088clb](https://www.luogu.com.cn/article/55088clb)
+
+## 说明
+my first commit
